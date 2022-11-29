@@ -1,4 +1,6 @@
 # EDA_WeatherData
+Exploratory Data Analysis
+
 
 Q. 1)  Find all the unique 'Wind Speed' values in the data.
 Q. 2) Find the number of times when the 'Weather is exactly Clear'.
